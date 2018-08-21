@@ -1,3 +1,5 @@
 test the version controal of git system
 Git is a distributed version control system
 Git is gree software distributed under the GPL.
+
+Git has a mutable index called stage.
